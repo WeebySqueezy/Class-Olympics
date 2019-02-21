@@ -14,5 +14,5 @@ app.post('/answer',(req, res) => {
 })
 
 app.listen(3000, () => {
-    console.log('THE CRUSADE HAS BEGUN! TO WAR COMRADES!');
+    console.log('THE CRUSADE HAS BEGUN! TO WAR, COMRADES!');
 });
